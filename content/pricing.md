@@ -5,7 +5,24 @@ layout: "page"
 
 ## A Transparent Approach to Pricing
 
-I believe in complete transparency when it comes to project costs. This pricing structure is designed to provide you with clear expectations about investment levels for different project scopes. Rather than hiding costs or surprising you with unexpected fees, I've outlined distinct tiers base
+I believe in complete transparency when it comes to project costs. This pricing structure is designed to provide you with clear expectations about investment levels for different project scopes. Rather than hiding costs or surprising you with unexpected fees, I've outlined distinct tiers based on project complexity and features required.
+
+### Why This Approach?
+
+Traditional software development pricing often involves:
+- Vague estimates that lead to scope creep
+- Hourly billing that incentivizes longer development times
+- Hidden costs that emerge late in the project lifecycle
+
+My value-based pricing structure addresses these issues by focusing on deliverables rather than time spent. You'll know upfront what features and level of complexity each tier includes, making budgeting more predictable and allowing for better project planning.
+
+All projects include:
+- Direct communication throughout the development process
+- Comprehensive documentation
+- Knowledge transfer to ensure your team can maintain the solution
+- Post-launch support period
+
+Whether you need a simple MVP or an enterprise-grade application, these tiers provide a starting point for our discussion about your specific needs.
 
 ## Project Pricing Tiers
 
