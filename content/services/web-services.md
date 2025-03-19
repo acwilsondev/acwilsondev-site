@@ -6,9 +6,9 @@ keywords = ["Web Development", "Web Design", "Web Services"]
 
 # Web Services
 
-We create modern, efficient, and maintainable web solutions that serve your needs both today and tomorrow.
+I create modern, efficient, and maintainable web solutions that serve your needs both today and tomorrow.
 
-## Our Web Services Include
+## Web Services Include
 
 ### Custom Web Development
 
@@ -31,9 +31,9 @@ We create modern, efficient, and maintainable web solutions that serve your need
 - Security patching
 - Documentation and knowledge transfer
 
-## Our Approach
+## My Approach
 
-We believe in:
+I believe in:
 
 - Using proven, maintainable technologies
 - Building for performance and scalability

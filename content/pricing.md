@@ -22,7 +22,7 @@ All projects include:
 - Knowledge transfer to ensure your team can maintain the solution
 - Post-launch support period
 
-Whether you need a simple MVP or an enterprise-grade application, these tiers provide a starting point for our discussion about your specific needs.
+Whether you need a simple MVP or an enterprise-grade application, these tiers provide a starting point for a discussion about your specific needs.
 
 ## Project Pricing Tiers
 
@@ -74,7 +74,7 @@ Whether you need a simple MVP or an enterprise-grade application, these tiers pr
 - **AI/ML Model Integration** – $5K+ (Custom model serving with FastAPI + TensorFlow/PyTorch).
 - **DevOps as a Service** – $2K+/month (Ongoing infrastructure monitoring, security patching, and automated scaling).
 
-📌 **For custom feature requests, migration services, or hybrid solutions, contact us for a tailored quote.**
+\U0001F4CC **For custom feature requests, migration services, or hybrid solutions, contact me for a tailored quote.**
 
 ## Retainer Pricing Structure
 
@@ -121,6 +121,6 @@ Whether you need a simple MVP or an enterprise-grade application, these tiers pr
 
 ### **Additional Custom Retainers**
 
-For specialized support, we offer **custom retainers** tailored to **multi-cloud deployments, AI/ML model optimizations, or security compliance audits**.
+For specialized support, I offer **custom retainers** tailored to **multi-cloud deployments, AI/ML model optimizations, or security compliance audits**.
 
-📌 **For a customized plan, reach out for a tailored quote.**
+\U0001F4CC **For a customized plan, reach out to me for a tailored quote.**

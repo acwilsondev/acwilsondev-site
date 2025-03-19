@@ -8,7 +8,7 @@ keywords = ["Machine Learning", "AI", "Data Science"]
 
 Practical, ethical AI solutions that solve real business challenges while remaining transparent and maintainable.
 
-## Our ML/AI Services
+## ML/AI Services
 
 ### Solution Development
 
@@ -31,9 +31,9 @@ Practical, ethical AI solutions that solve real business challenges while remain
 - Best practices implementation
 - Ethical AI guidelines
 
-## Our Approach
+## My Approach
 
-We prioritize:
+I prioritize:
 
 - Practical, explainable solutions
 - Ethical AI development

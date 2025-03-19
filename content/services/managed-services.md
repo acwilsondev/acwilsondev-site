@@ -8,7 +8,7 @@ keywords = ["Managed Services", "IT Management", "Support"]
 
 Expert management and support for your technology infrastructure, ensuring reliability, security, and efficiency.
 
-## Our Managed Services
+## Managed Services
 
 ### Infrastructure Management
 
@@ -31,9 +31,9 @@ Expert management and support for your technology infrastructure, ensuring relia
 - Compliance monitoring
 - Security best practices implementation
 
-## Our Approach
+## My Approach
 
-We focus on:
+I focus on:
 
 - Proactive problem prevention
 - Clear communication
