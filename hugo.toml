@@ -22,6 +22,7 @@ pygmentsStyle = "monokai"
     "Montserrat:400,700",
     "Merriweather:400,300italic,300"
   ]
+  mainSections = ["blog"]
   
   # Contact form configuration
   formspree_action = "https://formspree.io/f/your-formspree-endpoint"
@@ -60,7 +61,7 @@ pygmentsStyle = "monokai"
 
 [[menu.main]]
   identifier = "about"
-  name = "About/Philosophy"
+  name = "About"
   url = "/about/"
   weight = 2
 
@@ -103,3 +104,9 @@ pygmentsStyle = "monokai"
   name = "Blog"
   url = "/blog/"
   weight = 4
+
+[[menu.main]]
+  identifier = "pricing"
+  name = "Pricing"
+  url = "/pricing/"
+  weight = 5
