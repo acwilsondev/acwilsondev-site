@@ -68,7 +68,7 @@ pygmentsStyle = "monokai"
 [[menu.main]]
   identifier = "services"
   name = "Services"
-  url = "/services/"
+  url = "/services"
   weight = 3
 
 [[menu.main]]
