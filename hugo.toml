@@ -52,6 +52,10 @@ pygmentsStyle = "monokai"
   title = "Latest Insights"
   subtitle = "Sharing knowledge and fostering open collaboration"
 
+[params.widgets]
+  search = true
+  categories = true
+  tags = true
 [menu]
 [[menu.main]]
   identifier = "home"
