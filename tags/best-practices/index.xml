@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best Practices on AC Wilson</title>
+    <link>/tags/best-practices/</link>
+    <description>Recent content in Best Practices on AC Wilson</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Continuous Deployment: A Practice in Empowerment</title>
+      <link>/blog/understanding-continuous-deployment/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/understanding-continuous-deployment/</guid>
+      <description>&lt;h1 id=&#34;understanding-continuous-deployment-a-practice-in-empowerment&#34;&gt;Understanding Continuous Deployment: A Practice in Empowerment&lt;/h1&gt;&#xA;&lt;p&gt;In the spirit of open knowledge sharing and enabling others, let&amp;rsquo;s explore continuous deployment (CD) - what it is, why it matters, and how to implement it effectively.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-continuous-deployment&#34;&gt;What is Continuous Deployment?&lt;/h2&gt;&#xA;&lt;p&gt;Continuous Deployment is an approach where code changes are automatically deployed to production after passing automated testing. It&amp;rsquo;s the natural evolution of Continuous Integration (CI) and represents a commitment to automation and quality.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

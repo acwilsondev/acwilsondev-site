@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AC Wilson</title>
+    <link>/</link>
+    <description>Recent content on AC Wilson</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Continuous Deployment: A Practice in Empowerment</title>
+      <link>/blog/understanding-continuous-deployment/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/understanding-continuous-deployment/</guid>
+      <description>&lt;h1 id=&#34;understanding-continuous-deployment-a-practice-in-empowerment&#34;&gt;Understanding Continuous Deployment: A Practice in Empowerment&lt;/h1&gt;&#xA;&lt;p&gt;In the spirit of open knowledge sharing and enabling others, let&amp;rsquo;s explore continuous deployment (CD) - what it is, why it matters, and how to implement it effectively.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-continuous-deployment&#34;&gt;What is Continuous Deployment?&lt;/h2&gt;&#xA;&lt;p&gt;Continuous Deployment is an approach where code changes are automatically deployed to production after passing automated testing. It&amp;rsquo;s the natural evolution of Continuous Integration (CI) and represents a commitment to automation and quality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;h2 id=&#34;my-mission&#34;&gt;My Mission&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m here to create technology and knowledge that empower individuals, foster open collaboration, and challenge restrictive systems. Rooted in curiosity and hands-on experimentation, my work prioritizes transparency, accessibility, and practical solutions that enable others. By rejecting unnecessary bureaucracy, advocating for open systems, and designing for inclusivity, I ensure that my work contributes to a broader culture of knowledge-sharing and empowerment.&lt;/p&gt;&#xA;&lt;h2 id=&#34;core-values&#34;&gt;Core Values&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Encourage Open Systems&lt;/strong&gt;: I believe in the power of open systems and transparent processes. I favor transparency, collaboration, open-source standards, and user freedom while avoiding projects that promote excessive secrecy or vendor lock-in.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Enable Others&lt;/strong&gt;: My success is measured by your success. I design solutions with reusability and extensibility, providing thorough documentation and mentorship rather than hoarding knowledge or relying on dependency-based business models.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Challenge Bureaucracy&lt;/strong&gt;: I question centralized control, reduce gatekeeping, and streamline workflows. I refuse to accept work that imposes unnecessary constraints on users or perpetuates inefficient processes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Engineer for Empowerment&lt;/strong&gt;: I prioritize usability, accessibility, and inclusivity in everything I build. My goal is to minimize barriers and create technology that includes and uplifts users rather than excludes or marginalizes them.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tinker First, Ask Questions Later&lt;/strong&gt;: I embrace curiosity, experimentation, and hands-on learning. Rather than overplanning to the point of stifling innovation, I believe in practical exploration as a path to discovery and problem-solving.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;my-approach&#34;&gt;My Approach&lt;/h2&gt;&#xA;&lt;p&gt;Combining a hands-on, experimental mindset with a commitment to open systems and collaboration, I deliver robust, scalable solutions that empower clients and end-users—without the drag of excessive bureaucracy. My approach ensures that my solutions are:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/services/</guid>
+      <description>&lt;p&gt;I offer a comprehensive range of technology services designed to empower your organization and drive business success. My approach focuses on transparency, knowledge sharing, and building sustainable solutions that continue to deliver value over time.&lt;/p&gt;&#xA;&lt;h3 id=&#34;web-development&#34;&gt;Web Development&lt;/h3&gt;&#xA;&lt;p&gt;Modern, efficient, and maintainable web solutions that serve your needs both today and tomorrow.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom Web Development&lt;/strong&gt;: Modern frontend and backend solutions, responsive design, and Progressive Web Apps (PWAs)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Architecture &amp;amp; Infrastructure&lt;/strong&gt;: Scalable cloud solutions, Infrastructure as Code, and security best practices&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Maintenance &amp;amp; Support&lt;/strong&gt;: Regular updates, performance monitoring, security patching, and knowledge transfer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;devops&#34;&gt;DevOps&lt;/h3&gt;&#xA;&lt;p&gt;Simplify and improve your development process with automation that ensures high-quality code and reliable releases.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
