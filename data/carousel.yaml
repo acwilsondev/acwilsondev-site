@@ -1,0 +1,9 @@
+- title: "Technology Solutions"
+  description: "<p>Empowering through technology and knowledge</p>"
+  image: "img/carousel/tech-solutions.jpg"
+  weight: 1
+
+- title: "Open Systems Approach"
+  description: "<p>Transparent, maintainable solutions for long-term success</p>"
+  image: "img/carousel/open-systems.jpg"
+  weight: 2

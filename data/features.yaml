@@ -1,0 +1,19 @@
+   - name: "Web Services"
+     icon: "fas fa-globe"
+     description: "Modern, efficient, and maintainable web solutions that serve your needs both today and tomorrow."
+     weight: 1
+
+   - name: "DevOps"
+     icon: "fas fa-sync"
+     description: "Simplify and improve your development process with automation that ensures high-quality code and reliable releases."
+     weight: 2
+
+   - name: "Managed Services"
+     icon: "fas fa-server"
+     description: "Comprehensive technology management ensuring reliability, security, and efficiency."
+     weight: 3
+
+   - name: "Machine Learning & AI"
+     icon: "fas fa-brain"
+     description: "Practical, ethical AI solutions that solve real business challenges while remaining transparent and maintainable."
+     weight: 4

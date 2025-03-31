@@ -11,11 +11,13 @@ pygmentsStyle = "monokai"
 [params]
   logo = "img/logo.png"
   logo_small = "img/logo-small.png"
-  about_us = "AC Wilson exists to create technology and knowledge that empower..."
-  copyright = "Copyright (c) 2024, AC Wilson; all rights reserved."
+  logo_text = "AC Wilson"
+  disabled_logo = true
+  about_us = "AC Wilson specializes in building scalable web applications, automating DevOps workflows, and empowering teams through modern software development practices. Focused on transparency and knowledge sharing to help businesses succeed."
+  copyright = "Copyright (c) 2024, AC Wilson Dev LLC; all rights reserved."
   date_format = "January 2, 2006"
   viewMorePostLink = "/blog/"
-  style = "default"
+  style = "custom"
   # Custom colors
   custom_css = ["css/custom.css"]
   font_families = [
@@ -25,17 +27,17 @@ pygmentsStyle = "monokai"
   mainSections = ["blog"]
   
   # Contact form configuration
-  formspree_action = "https://formspree.io/f/your-formspree-endpoint"
-  email = "contact@example.com"
-  address = """
-    <strong>Your Company Name</strong>
-    <br>123 Main Street
-    <br>City, State 12345
-    <br>Country
-    """
+  formspree_action = "https://formspree.io/f/mvgkbyla"
+  email = "aaron@acwilson.dev"
 
 [params.testimonials]
   enable = false
+
+[params.carouselHomepage]
+  enable = true
+  auto_play = true
+  slide_speed = 2000  # 2 seconds per slide
+  pagination_speed = 1000
 
 [params.see_more]
   enable = true
@@ -43,6 +45,10 @@ pygmentsStyle = "monokai"
   subtitle = "Transparent. Approachable. Empowering."
   link_url = "/services"
   link_text = "Explore Our Services"
+
+[params.features]
+   enable = true
+   cols = 4
 
 [params.clients]
   enable = false
@@ -56,6 +62,7 @@ pygmentsStyle = "monokai"
   search = true
   categories = true
   tags = true
+
 [menu]
 [[menu.main]]
   identifier = "home"
@@ -76,41 +83,13 @@ pygmentsStyle = "monokai"
   weight = 3
 
 [[menu.main]]
-  identifier = "web-services"
-  name = "Web Services"
-  url = "/services/web-services/"
-  parent = "services"
-  weight = 1
-
-[[menu.main]]
-  identifier = "cicd"
-  name = "CI/CD"
-  url = "/services/cicd/"
-  parent = "services"
-  weight = 2
-
-[[menu.main]]
-  identifier = "managed-services"
-  name = "Managed Services"
-  url = "/services/managed-services/"
-  parent = "services"
-  weight = 3
-
-[[menu.main]]
-  identifier = "ml-ai"
-  name = "ML/AI"
-  url = "/services/ml-ai/"
-  parent = "services"
-  weight = 4
-
-[[menu.main]]
   identifier = "blog"
   name = "Blog"
   url = "/blog/"
   weight = 4
 
 [[menu.main]]
-  identifier = "pricing"
-  name = "Pricing"
-  url = "/pricing/"
+  identifier = "contact"
+  name = "Contact"
+  url  = "/contact"
   weight = 5
