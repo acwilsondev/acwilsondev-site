@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://acwilsondev.github.io/acwilsondev-site/"
 title = "AC Wilson"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
